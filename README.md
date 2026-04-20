@@ -34,7 +34,6 @@ This is a single-page static website for **Baker's Delights**, a family-owned ba
 
 ## Technologies Used
 - **HTML5**: Semantic structure
-- **CSS3**: Inline gradients and basic styling (full CSS file recommended for production)
 - **JavaScript**: None (hamburger menu may need JS for functionality)
 - **Google Fonts**: Typography
 
