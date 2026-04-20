@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Baker's Delights - Freshly Baked Goodness</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    
+
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <nav>
+            <a href="#home" class="logo">Baker's Delights</a>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#menu">Menu</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="hamburger" id="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Baker's Delights</h1>
+            <p>Indulge in our freshly baked pastries, artisan breads, and decadent cakes made with love in Polokwane.</p>
+            <a href="#menu" class="cta-button">View Our Menu</a>
+        </div>
+    </section>
+
+    <!-- About Us -->
+    <section id="about" class="about">
+        <h2 class="section-title">About Us</h2>
+        <div class="about-content">
+            <div class="about-text">
+                <h3>Crafted with Passion</h3>
+                <p>At Baker's Delights, we believe every bite should tell a story. Our family-owned bakery in Polokwane uses only the finest ingredients and traditional baking techniques to create treats that bring joy to every table.</p>
+                <p>From buttery croissants baked fresh every morning to our signature chocolate cake, every creation is made with love and attention to detail.</p>
+            </div>
+            <div class="about-image">
+            </div>
+        </div>
+    </section>
+
+    <!-- Menu -->
+    <section id="menu">
+        <h2 class="section-title">Our Menu</h2>
+        <div class="menu-grid">
+            <div class="menu-item">
+                <div class="menu-image" style="background: linear-gradient(45deg, #F4C2C2, #FFF8F0);" data-price="R25"></div>
+                <div class="menu-content">
+                    <img src="https://th.bing.com/th/id/OIP.u7XIF1UZ8S-OZmigSW2QzwHaHa?w=151&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+                <div></div>Butter Croissants R35<div>
+                    <p>Flaky, golden croissants made with premium French butter.</p>
+            <div class="menu-item">
+                <div class="menu-image" style="background: linear-gradient(45deg, #8B5E3C, #6d4a2f);" data-price="R180/slice"></div>
+                <div class="menu-content">
+                    <img src="https://th.bing.com/th/id/OIP.pwXWb4_--7Uko7knpr7jcwHaJQ?w=186&h=233&c=7&r=0&o=7&pid=1.7&rm=3"
+                 <div></div>Chocolate Cake R180<div>
+                    <p>Rich, moist chocolate cake silky ganache frosting<p>
+            <div class="menu-item">
+                <div class="menu-image" style="background: linear-gradient(45deg, #D2B48C, #FFF8F0);" data-price="R45"></div>
+                <div class="menu-content">
+                    <img src="https://th.bing.com/th/id/OIP.nQlWZXHskO0PYrIHW6LgtgHaFj?w=186&h=140&c=7&r=0&o=7&pid=1.7&rm=3"
+                    <div></div>Sourdough Bread R30<div></div>
+                    <p>Handcrafted sourdough with natural levain starter.</p>
+                </div>
+            </div>
+            <div class="menu-item">
+                <div class="menu-image" style="background: linear-gradient(45deg, #F4C2C2, #FFB6C1);" data-price="R20 each"></div>
+                <div class="menu-content">
+                    <img src="https://th.bing.com/th/id/OIP.ePwy1arfT0xwirMYTS6M-QHaLH?w=186&h=279&c=7&r=0&o=7&pid=1.7&rm=3"
+                </div><div>Vanilla Cupcakes R20</div>
+                    <p>Light vanilla cupcakes with buttercream frosting.</p>
+                </div>
+            </div>
+            <div class="menu-item">
+                <div class="menu-image" style="background: linear-gradient(45deg, #8B4513, #A0522D);" data-price="R30"></div>
+                <div class="menu-content">
+                    <img src="https://th.bing.com/th/id/OIP.o-Z0LVZXxErPbrHxd2XNIgHaE8?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3"
+                    <div></div>Fresh Coffee R25<div>
+                    <p>Premium roasted coffee, brewed to perfection.</p>
+                </div>
+            </div>
+            <div class="menu-item">
+                <div class="menu-image" style="background: linear-gradient(45deg, #DEB887, #D2B48C);" data-price="R35"></div>
+                <div class="menu-content">
+                    <img src="https://th.bing.com/th/id/OIP.QIPft8pq7Z9hHbTMIJKSSgHaLH?w=186&h=279&c=7&r=0&o=7&pid=1.7&rm=3"
+                    <div></div>Artisan Bread R40<div>
+                    <p>Traditional white bread with golden crust.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="contact" class="contact">
+        <h2 class="section-title">Get In Touch</h2>
+        <div class="contact-content">
+            <div class="contact-info">Phone +27 87 557 8765</div> Email hello@sweetscrumbs.co.za</div> business Hours Mon-Sat:7am - 5pm  |  Sun:8am - 2pm</div>
+                <h3>Visit Us</h3>
+                </div> <div>
+                        <h4>123 Bakery Street</h4>
+                        <p>Polokwane, 0699</p>
+                    </div>
+                </div>
+                <div class="contact-item">
+                    <svg viewBox="0 0 24 24"><path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9
