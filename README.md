@@ -10,12 +10,12 @@ This is a single-page static website for **Baker's Delights**, a family-owned ba
   | Item              | Price     | Description                          |
   |-------------------|-----------|--------------------------------------|
   | Butter Croissants | R35       | Flaky, golden croissants             |
-  | Chocolate Cake    | R180/slice| Rich moist cake with ganache         |
+  | Chocolate Cake    | R180      | Rich moist cake with ganache         |
   | Sourdough Bread   | R30       | Handcrafted with natural levain      |
   | Vanilla Cupcakes  | R20 each  | Light cupcakes with buttercream      |
   | Fresh Coffee      | R25       | Premium roasted coffee               |
   | Artisan Bread     | R40       | Traditional white bread              |
-- **Contact Section**: Location, phone (+27 87 557 8765), email (hello@sweetscrumbs.co.za), and business hours.
+- **Contact Section**: Location, phone (+27 87 557 8765), email (hello@bakersdelights.co.za), and business hours.
 - **Responsive Navigation**: Hamburger menu for mobile devices.
 - **Google Fonts**: Playfair Display and Poppins for elegant typography.
 
